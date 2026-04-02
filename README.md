@@ -22,7 +22,7 @@ Fixaj Saat sadece zamanı göstermekle kalmaz, aynı zamanda bulunduğu odanın 
 
 Saatinizi prize takıp hemen kullanmaya başlamak için aşağıdaki görseli takip edebilirsiniz:
 
-![Hızlı Kurulum Kılavuzu](docs/hizli_kurulum.jpg)
+![Hızlı Kurulum Kılavuzu](docs/hızlı başlangıç.png)
 
 ---
 
