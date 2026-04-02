@@ -21,9 +21,8 @@ Bu iddiayı boşuna yapmıyoruz. Pek çok "karanlık" saat aslında geceyi aydı
 **Kendi geliştirdiğimiz elektronik devre ve kod yapısı** sayesinde ekran yalnızca saati görebileceğiniz kadar ışık üretir — fazlası yok. Bu ışık ne yansıma yapar ne de parlama. Tavana, duvara, yüzünüze vurmaz. Odada o sinir bozucu "bir şeyler parlıyor" hissi olmaz.
  
 > *"Işıktan en çok rahatsız olan benim. Bu saati önce kendime icat ettim, sonra sizlerin beğenisine sundum."*
-> — Fixaj Teknik
  
-Eğer siz de gece yarısı saate bakıp gözlerinizi kısmaktan, perdeden sızan ışıkla boğuşmaktan ya da partnerin telefon ekranından bunaldıysanız — bu saat tam size göre. 😌🌑
+Eğer siz de gece yarısı saate bakıp gözlerinizi kısmaktan, perdeden sızan ışıkla boğuşmaktan ya da partnerin telefon ekranından rahatsız oluyorsanız — bu saat tam size göre. 😌🌑
 
 ### 👶 Çocuklarınız İçin İdeal ve Sağlıklı Ortam
 
