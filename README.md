@@ -1,13 +1,8 @@
-# FixajSaat
-Dünyanın En Karanlık Saati
-
 ![Tuşlar Görseli](docs/tuslar.jpg)
 
 # Fixaj Saat
 
-**Dünyanın en karanlık saatine hoş geldiniz.** 
-
-Yatak odanızda kesintisiz ve huzurlu bir uyku deneyimi yaşamanız için özel olarak tasarlandı. Geleneksel dijital saatlerin aksine rahatsız edici bir ışık yaymaz ve tamamen sıfır gürültü ile çalışır. Gecenin karanlığında varlığını sadece siz ona ihtiyaç duyduğunuzda hissedersiniz.
+**Dünyanın en karanlık saatine hoş geldiniz.** Yatak odanızda kesintisiz ve huzurlu bir uyku deneyimi yaşamanız için özel olarak tasarlandı. Geleneksel dijital saatlerin aksine rahatsız edici bir ışık yaymaz ve tamamen sıfır gürültü ile çalışır. Gecenin karanlığında varlığını sadece siz ona ihtiyaç duyduğunuzda hissedersiniz.
 
 ## Neden Fixaj Saat?
 
@@ -28,7 +23,7 @@ Saatinizi prize takıp hemen kullanmaya başlamak için aşağıdaki görseli ta
 
 ## Kullanım Kılavuzu
 
-Cihazın tüm özelliklerini keşfetmek, Bluetooth bağlantı ayarlarını yapmak ve detaylı kullanım adımlarını öğrenmek için aşağıdaki bağlantıdan kılavuzumuzu indirebilirsiniz:
+Cihazın tüm özelliklerini keşfetmek, Bluetooth bağlantı ayarlarını yapmak ve detaylı kullanım adımlarını öğrenmek için aşağıdaki bağlantıdan kılavuzumuzu bilgisayarınıza veya telefonunuza indirebilirsiniz:
 
 👉 [Kullanım Kılavuzunu İndirmek İçin Tıklayın](docs/FixajSaat_Kullanim_Kilavuzu.pdf)
 
