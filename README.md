@@ -4,7 +4,7 @@
 
 > **Dünyanın en karanlık saatine hoş geldiniz.**
 
-Yatak odanızda kesintisiz ve huzurlu bir uyku deneyimi yaşamanız için özel olarak tasarlandı. Geleneksel dijital saatlerin aksine rahatsız edici bir ışık yaymaz ve tamamen **sıfır gürültü** ile çalışır. 🌙
+Yatak odanızda kesintisiz ve huzurlu bir uyku deneyimi yaşamanız için özel olarak tasarlandı. Geleneksel dijital saatlerin aksine rahatsız edici bir **ışık yaymaz** kendi geliştirdiğimiz kod yapısı sayesinde saat çalışırken sadece 1 tane ledin yaydığı ışığın 100 de 1 ine denk seviyede bir ışık yayar, ve tamamen **sıfır gürültü** ile çalışır. 🌙
 
 Gecenin karanlığında varlığını yalnızca siz ona ihtiyaç duyduğunuzda hissedersiniz. Tam da olması gerektiği gibi.
 
@@ -13,6 +13,17 @@ Gecenin karanlığında varlığını yalnızca siz ona ihtiyaç duyduğunuzda h
 
 
 ## 💡 Neden Fixaj Saat?
+
+### 🖤 Şaka Yapmıyoruz — Gerçekten En Karanlık Saat
+ 
+Bu iddiayı boşuna yapmıyoruz. Pek çok "karanlık" saat aslında geceyi aydınlatır, yüzeylere yansır, gözlerinizi yakar. Fixaj Saat'te durum farklı.
+ 
+**Kendi geliştirdiğimiz elektronik devre ve kod yapısı** sayesinde ekran yalnızca saati görebileceğiniz kadar ışık üretir — fazlası yok. Bu ışık ne yansıma yapar ne de parlama. Tavana, duvara, yüzünüze vurmaz. Odada o sinir bozucu "bir şeyler parlıyor" hissi olmaz.
+ 
+> *"Işıktan en çok rahatsız olan benim. Bu saati önce kendime icat ettim, sonra sizlerin beğenisine sundum."*
+> — Fixaj Teknik
+ 
+Eğer siz de gece yarısı saate bakıp gözlerinizi kısmaktan, perdeden sızan ışıkla boğuşmaktan ya da partnerin telefon ekranından bunaldıysanız — bu saat tam size göre. 😌🌑
 
 ### 👶 Çocuklarınız İçin İdeal ve Sağlıklı Ortam
 
