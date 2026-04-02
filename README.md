@@ -1,5 +1,3 @@
-![Tuşlar Görseli](docs/tu%C5%9Flar.png)
-
 # 🕐 Fixaj Saat
 
 > **Dünyanın en karanlık saatine hoş geldiniz.**
@@ -8,6 +6,7 @@ Yatak odanızda kesintisiz ve huzurlu bir uyku deneyimi yaşamanız için özel 
 
 Gecenin karanlığında varlığını yalnızca siz ona ihtiyaç duyduğunuzda hissedersiniz. Tam da olması gerektiği gibi.
 
+<img src="docs/tu%C5%9Flar.png" alt="Tuşlar Görseli" width="50%">
 ---
 
 ## 💡 Neden Fixaj Saat?
