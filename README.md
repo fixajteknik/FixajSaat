@@ -1,4 +1,4 @@
-![Tuşlar Görseli](docs/tuslar.jpg)
+![Tuşlar Görseli](docs/tu%C5%9Flar.png)
 
 # 🕐 Fixaj Saat
 
@@ -34,7 +34,7 @@ Saatinizi prize takıp hemen kullanmaya başlamak için aşağıdaki görseli ta
 
 Cihazın tüm özelliklerini keşfetmek, Bluetooth bağlantı ayarlarını yapmak ve detaylı kullanım adımlarını öğrenmek için kılavuzumuzu indirebilirsiniz:
 
-👉 [**Kullanım Kılavuzunu İndirmek İçin Tıklayın**](docs/FixajSaat_Kullanim_Kilavuzu.pdf)
+👉 [**Kullanım Kılavuzunu İndirmek İçin Tıklayın**](docs/FIXAJ%20SAAT%20kullan%C4%B1m%20klavuzu.pdf)
 
 ---
 
