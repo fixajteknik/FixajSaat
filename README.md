@@ -47,7 +47,7 @@ Fixaj Saat sadece bir saat değil, aynı zamanda **programlanabilir bir bilgi ek
 - 🎂 **Doğum günü & özel gün hatırlatıcısı** — Sabah kalktığınızda ekranda "Bugün annenin doğum günü! 🎂" görsün
 - 📢 **Duyuru & anons paneli** — Okul, kurum veya işyerinde anlık bilgilendirme için idealdir
 
----
+
 
 ## ⚡ Hızlı Kurulum Kılavuzu
 
@@ -63,6 +63,8 @@ Cihazın tüm özelliklerini keşfetmek, Bluetooth bağlantı ayarlarını yapma
 
 👉 [**Kullanım Kılavuzunu İndirmek İçin Tıklayın**](docs/FIXAJ%20SAAT%20kullan%C4%B1m%20klavuzu.pdf)
 
----
+
 
 *Geliştirici: [Fixaj Teknik](https://github.com/fixajteknik)* 🛠️
+
+---
