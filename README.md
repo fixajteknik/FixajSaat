@@ -1,5 +1,3 @@
-
-
 # 🕐 Fixaj Saat
 
 > **Dünyanın en karanlık saatine hoş geldiniz.**
@@ -75,6 +73,30 @@ Cihazın tüm özelliklerini keşfetmek, Bluetooth bağlantı ayarlarını yapma
 
 
 
-*Geliştirici: [Fixaj Teknik](https://github.com/fixajteknik)* 🛠️
+## ⌨️ Komutlar
+
+Cihazınıza bağlanarak çeşitli ayarları yapmak ve kontrol etmek için kullanabileceğiniz komutlar ve örnekleri aşağıda listelenmiştir:
+
+| Komut | Görevi | Örnek |
+| :--- | :--- | :--- |
+| `alarm`<br>`alarmkur` | Alarm kurmak. 20 tane alarm kurabilirsiniz. Saati sadece sayı olarak yazın misal 14:30 için `1430`, 08:15 için `815` gibi. Alarm hangi günlerde çalmasını istiyorsanız saatten sonra bir boşluk bırakıp `1` (hafta içi) veya `2` (hafta sonu) yazın. Bir şey yazmazsanız her gün çalar. | `alarm 1430`<br>`alarm 715 1`<br>`alarmkur 1000 2` |
+| `alarmsure` | Alarmın kaç saniye çalacağını ayarlar. 1 ile 59 arası bir değer girebilirsiniz. | `alarmsure 15` |
+| `liste` | Hafızadaki alarmları liste şeklinde telefona gönderir. Telefonda konsol tarzı gelen mesajları gösteren bir bluetooth uygulaması gerekir. | `liste` |
+| `sil` | Listedeki sıra numarasına göre o alarmı siler. | `sil 3` |
+| `hepsinisil`<br>`alarmkapat`<br>`alarmoff` | Kayıtlı bütün alarmları siler, değer almaz. | `hepsinisil`<br>`alarmkapat` |
+| `genlik` | Alarm sesinin şiddetini, seviyesini ayarlamak için `0` SESSİZ (sadece ışıklı alarm), `1`, `2`, `3` ve `4` max ses yüksekliği içindir. | `genlik 0`<br>`genlik 3`<br>`genlik 4` |
+| `frekans` | Alarm ses tonunu değiştirmeye yarar. 100 ile 6000 arası bir değer girebilirsiniz. Default 1500. | `frekans 1200` |
+| `seviye`<br>`parlaklık`<br>`aydınlık` | Saatin parlaklığını sabitlemek için 1 ile 1400 arası değer girilebilir. 1 en karanlık durumdur. Daha da karanlık için `sabit` komutuna bakabilirsiniz. | `seviye 1`<br>`seviye 1000`<br>`parlaklık 300` |
+| `otomatik` | Ekran parlaklığını otomatik ayarlar. Eski haline getirir. Değer almaz. | `otomatik` |
+| `sabit`<br>`katsayı`<br>`profil` | Ekran parlaklığını gireceğiniz katsayı oranında arttırır. Ön yüklü değer 7'dir. Parlaklığı azaltmak için 0 da girebilirsiniz. 0-500 arası değer alır. Detaylı açıklama örnek kod kısmında mevcut. | `sabit 0`<br>`sabit 250`<br>`sabit 1` |
+| `timezone`<br>`bölge`<br>`utc` | Saatin zaman dilimini ayarlar. Yaz saati uygulamaları için. Ön yüklü 3 (İstanbul) olarak gelmektedir. | `timezone -2`<br>`bolge 3`<br>`utc -8` |
+| `help`<br>`yardım` | Bütün komutları listeler. Konsol tarzı gelen mesajları görebileceğiniz bir uygulama gerekir. | `help` |
+| `çip` | İşlemcinin sıcaklığını bildirir. 40 derece üstü saatte sapmalar olur. | `çip` |
+| `saatfont` | Ekrandaki saat yazı fontunu değiştirebilirsiniz. 3 farklı yazı fontu mevcuttur. | `saatfont 1`<br>`saatfont 2`<br>`saatfont 3` |
+| `kayanfont` | Ekrandaki kayan yazı fontu değişebilir. Hiçbir komutla eşleşmeyen mesajlar direkt kayan yazı olarak algılanır ve her 10 saniyede bir kayan yazı şeklinde devam eder. Kutlama, karşılama mesajlarını ekrana yazabilirsiniz. 5 farklı font mevcut. | `kayanfont 1`<br>`kayanfont 2`<br>`kayanfont 3` |
+| `durdur` | Kayan yazıyı durdurur. Değer almaz. | `durdur` |
+| `reset` | Cihazı yeniden başlatır. | `reset` |
 
 ---
+
+*Geliştirici: [Fixaj Teknik](https://github.com/fixajteknik)* 🛠️
