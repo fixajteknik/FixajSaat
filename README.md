@@ -128,7 +128,7 @@ Cihazı Bluetooth üzerinden bir konsol uygulamasıyla bağlayarak aşağıdaki 
 | `kayanfont` | Hiçbir komutla eşleşmeyen mesajlar kayan yazı olarak algılanır. Bu komutla kayan yazı fontunu değiştirebilirsiniz (5 farklı font mevcut). | `kayanfont 3` |
 | `durdur` | Ekrandaki kayan yazıyı anında durdurur. Değer almaz. | `durdur` |
 | `tema` | Ekrandaki saat arayüzünü ve dizilimi değiştirir. | `tema 1`<br>`tema 2` |
-| `sembol` | Saat ve dakika arasındaki iki nokta (:) ayracının veya ekrandaki durum sembolünün görünümünü/animasyonunu değiştirir. | `sembol 1`<br>`sembol 2` |
+| `sembol` | Derece ve Nem sembolü için 8 farklı seçenek mevcuttur. | `sembol 1`<br>`sembol 2` |
 
 ---
 *Fixaj Saat - Gömülü Sistem Teknolojileri*
